@@ -12,6 +12,7 @@ def main():
     print("ok")
     print("nana")
     print("lalal")
+    # smth new
 
 
 
